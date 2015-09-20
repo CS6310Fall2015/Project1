@@ -1,0 +1,18 @@
+
+Gurobi 6.0.5 (mac64) logging started Sun Sep 20 14:18:03 2015
+
+Optimize a model with 2 rows, 6 columns and 6 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [1e+00, 1e+00]
+  Bounds range    [1e+00, 1e+00]
+  RHS range       [2e+00, 2e+00]
+Found heuristic solution: objective 4
+Presolve removed 2 rows and 6 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 4 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 4.000000000000e+00, best bound 4.000000000000e+00, gap 0.0%
